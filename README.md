@@ -12,5 +12,4 @@ There are four scenarios that will end the game:
 ###### Requirements
 - You should separate each functionality in your program into a function. (DONE)
 - You should use Pygame to design your game board. (DONE)
-- Using the keyboard keys (arrows or WASD) to control the mouse  
-  movements instead of letting the computer randomly choose his movement is a bonus. (DONE)
+- Using the keyboard keys (arrows or WASD) to control the mouse movements instead of letting the computer randomly choose his movement is a bonus. (DONE)
